@@ -1,0 +1,72 @@
+.heading{
+  text-align: center;
+  /* border: 3px solid black; */
+
+  color: #fff;
+  font-family: monospace;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#ad{
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+body{
+  background: url("phone.jpg");
+}
+
+
+.createAccount{
+  background: rgba(0,0,0,.5);
+  border: 2px dotted black;
+  margin-right: 20%;
+  margin-left: 20%;
+  /* float:left; */
+}
+
+input{
+  width: 300px;
+  height: 40px;
+  margin-bottom: 3%;
+  margin-right: 60px;
+
+}
+
+form{
+  margin-left: 35%;
+  margin-top: 4%;
+  margin-bottom: 0%;
+  margin-right: 10%;
+}
+
+label{
+  font-size: 25px;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+#createAccount{
+  width: 180px;
+  height: 60px;
+  background-color:#7cf1fc;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-left: 15%;
+  margin-bottom: 0px;
+  cursor: pointer;
+}
+#createAccount:hover{
+  background-color: green;
+}
+
+h3{
+  text-align:center;
+  color: #fff;
+}

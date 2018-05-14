@@ -1,0 +1,62 @@
+body{
+  background: url("phone.jpg");
+
+}
+
+.heading{
+  text-align: center;
+  /* border: 3px solid black; */
+
+  color: #FFF;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+#ad{
+  text-align: center;
+  color: white;
+}
+
+.welcomeScreen{
+  background-color: rgba(0,0,0,.5);
+  color:white;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 2%;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.div2{
+  margin-left: 5%;
+}
+
+#info{
+  margin-left: 15%;
+  color:#f4d942;
+}
+
+.btn{
+
+  /* background-color: #20440f; */
+  border: 2px solid black;
+  border-radius: 20px;
+  width: 75px;
+  height: 50px;
+  background-color:  #7cf1fc;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-left: 35%;
+  margin-right: 10%;
+  padding-left: 5%;
+  padding-right: 10%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  cursor: pointer;
+  font-weight: bold;
+
+}
+.btn:hover{
+  background-color: green;
+}

@@ -1,0 +1,70 @@
+body{
+  background: url("phone.jpg");
+}
+
+input{
+  width: 250px;
+  height: 60px;
+  background-color:#7cf1fc;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-left: 15%;
+  margin-right: 10%;
+  padding-left: 5%;
+  padding-right: 15%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  cursor: pointer;
+  font-weight: bold;
+}
+input:hover{
+  background-color: green;
+}
+
+.heading{
+  text-align: center;
+  /* border: 3px solid black; */
+
+  color: #fff;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+#ad{
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.adminMenu{
+  background-color: rgba(0,0,0,.5);
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 2%;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+
+form{
+  margin-bottom: 30px;
+  margin-top:30px;
+}
+
+.logout{
+  margin-left: 41%;
+  margin-right: 38%;
+}
+
+#logout{
+  background-color: #7c1e08;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+padding-left: 10%;
+  font-weight: bold;
+  font-size: 35px;
+  border: 5px solid black;
+}

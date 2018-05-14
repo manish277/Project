@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="adminPanel.css">
+  </head>
+  <body>
+    <h1 class="heading">ONLINE BANKING SERVICE</h1>
+    <h1 id="ad">ADMIN PANEL</h1>
+
+
+<div class="adminMenu">
+
+
+    <form class="" action="" method="get">
+      <input type="button" name="Add_Account" value="Add Account" onclick="window.location.href='Add_Account.php'">
+
+      <input type="button" name="" value="Close Account" onclick="window.location.href='Close_Account.php'">
+
+      <input type="button" name="Manage_Account" value="Manage Account" onclick="window.location.href='Admin_Manage.php'">
+      
+      <input type="button" name="Log_Out" value="Log Out" onclick="window.location.href='index.php'">
+      <!-- <input type="button" name="Account_Details" value="Account Details">
+      <input type="button" name="Deposit" value="Deposit">
+      <input type="button" name="Transfer" value="Transfer">
+      <input type="button" name="Mini_Statement" value="Mini Statement"> -->
+      <!-- <input type="submit" name="Log_Out" value="Log Out"> -->
+    </form>
+
+
+
+    </div>
+
+    <!-- <form class="logout" action="index.html" method="get">
+    <input id="logout" type="submit" name="Log_Out" value="Log Out">
+    </form> -->
+
+  </body>
+</html>

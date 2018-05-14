@@ -1,0 +1,48 @@
+.heading{
+  text-align: center;
+  /* border: 3px solid black; */
+
+  color: #FFF;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+#ad{
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+body{
+  background: url("phone.jpg");
+}
+input{
+  width: 175px;
+  height: 60px;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-left: 30%;
+  margin-right: 10%;
+  padding-left: 5%;
+  padding-right: 15%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+}
+.welcomeScreen{
+  background-color: rgba(0,0,0,.5);
+  color:white;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 2%;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+
+.div2{
+  margin-left: 30%;
+}

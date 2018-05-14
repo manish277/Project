@@ -1,0 +1,91 @@
+body{
+  background: url("phone.jpg");
+
+}
+
+.heading{
+  text-align: center;
+  /* border: 3px solid black; */
+
+  color: #fff;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+.adminLogin{
+  background: rgba(0,0,0,.5);
+  border: 2px dotted white;
+  margin-right: 0%;
+  margin-left: 2%;
+  float:left;
+  
+}
+
+.userLogin{
+ background: rgba(0,0,0,.5);
+  border: 2px dotted white;
+  margin-left: 0%;
+  margin-right: 2%;
+  float: right;
+
+}
+
+input{
+  width: 300px;
+  height: 40px;
+  margin-bottom: 3%;
+  margin-right: 60px;
+
+}
+
+form{
+  margin-left: 10%;
+  margin-top: 20%;
+  margin-bottom: 30%;
+}
+
+label{
+  font-size: 25px;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+#adminSubmit{
+  width: 110px;
+  height: 50px;
+  background-color: #ff267e;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-left: 25%;
+  cursor: pointer;
+  border-radius: 20px;
+}
+#adminSubmit:hover{
+  background-color: green;
+}
+
+#userSubmit{
+  width: 110px;
+  height: 50px;
+  background-color: #ff267e;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-left: 25%;
+}
+#userSubmit:hover{
+  background-color: green;
+}
+
+#ad{
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+#us{
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
